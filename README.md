@@ -6,7 +6,7 @@ I’m a first-year Computer Engineering student at **Politecnico di Milano** pas
 --- 
 
 ## 🌱 Currently Learning
-- **Web Development** : HTML, CSS, and JavaScript.
+- **Machine Learning**
 
 ---
 
