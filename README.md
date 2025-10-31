@@ -1,12 +1,12 @@
 <h1><b>Hi there, I'm </b><a href="https://github.com/zizzii">Zizzi</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <br>
 
-I’m a first-year Computer Engineering student at **Politecnico di Milano** passionate about technology, programming, and problem-solving. I’m currently exploring the world of computer science and engineering, and I’m excited to grow my skills and contribute to meaningful projects in the future.
+I’m a second-year Computer Engineering student at **Politecnico di Milano** passionate about technology, programming, and problem-solving. I’m currently exploring the world of computer science and engineering, and I’m excited to grow my skills and contribute to meaningful projects in the future.
 
 --- 
 
 ## 🌱 Currently Learning
-- **Machine Learning**
+- **NLP**
 
 ---
 
