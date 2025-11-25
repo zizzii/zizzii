@@ -25,6 +25,6 @@ I am particularly driven by independent study to understand the mathematical and
 
 **Open to collaborations.**
 
-[email](mailto:wwwhuzihan@gmail.com) • [LinkedIn](https://www.linkedin.com/in/zihan-hu-371218278/)
+[Email](mailto:wwwhuzihan@gmail.com) • [LinkedIn](https://www.linkedin.com/in/zihan-hu-371218278/)
 
 </div>
